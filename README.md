@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Sk Afjal Ali
+#  Hi, I'm Sk Afjal Ali
 
-## 💻 Full Stack Developer
+##  Full Stack Developer
 
 I'm a passionate Full Stack Developer with experience designing and developing modern web applications, enterprise software, ERP solutions, and healthcare management systems. I enjoy building scalable, secure, and maintainable applications while following industry best practices and writing clean, efficient code.
 
 I have hands-on experience developing RESTful APIs, responsive user interfaces, database-driven applications, and complete business management systems from planning to deployment. I'm always eager to learn new technologies and continuously improve my skills to build better software.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -41,7 +41,7 @@ I have hands-on experience developing RESTful APIs, responsive user interfaces, 
 * npm
 * Vite
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * System Design
 * Microservices
@@ -50,10 +50,10 @@ I have hands-on experience developing RESTful APIs, responsive user interfaces, 
 * Cloud Deployment
 * Performance Optimization
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * GitHub: **github.com/afzalio**
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
